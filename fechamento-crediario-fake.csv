@@ -1,0 +1,321 @@
+Nome do Cliente,E-mail do cliente,DATA,Vendas crediário,Recebimento em dinheiro,Recebimento pix/ted,
+Vinicius Moraes,dpeixoto@example.net,"R$ 1,339.70",0,799.7,01/09/2022 12:18:05,
+Marina Silva,giovanna20@example.com,"R$ 1,308.00",477,1771,01/09/2022 19:07:08,
+Sophie Martins,da-cunhathiago@example.net,"R$ 1,422.76",0,0,01/09/2022 20:11:17,
+Sra. Maria Sophia Gomes,mendesleticia@example.net,R$ 34.90,0,0,01/09/2022 20:17:35,
+Alícia Teixeira,fernandesian@example.com,R$ 0.00,118.25,Dinheiro - Dinheiro foi para o Cofre,01/09/2022 21:03:43,
+João Felipe Dias,maria-ceciliabarbosa@example.com,"R$ 28,883.46",0,0,02/09/2022 12:52:23,
+Luiz Gustavo Cavalcanti,icampos@example.com,R$ 0.00,0,"3,463.00",02/09/2022 12:58:05,
+Catarina Cardoso,halmeida@example.org,R$ 909.80,360,700,02/09/2022 14:45:20,
+Dr. João Felipe da Conceição,vnascimento@example.org,R$ 790.60,366,"PIX 100,00 236,00 236,00",02/09/2022 17:28:42,
+Igor Gomes,vitoria28@example.com,R$ 0.00,294,"PIX 83,90 439,68",02/09/2022 17:45:39,
+Sabrina Santos,raulcardoso@example.net,R$ 939.60,61.69,135,02/09/2022 17:53:23,
+Caio da Mata,caldeiraryan@example.net,R$ 199.60,282.1,0,02/09/2022 18:09:00,
+Danilo Correia,davi-lucasmoura@example.org,"R$ 1,067.00",1700,277,02/09/2022 20:18:29,
+Ana Luiza Rezende,dferreira@example.org,R$ 479.60,200,470.5,02/09/2022 21:56:13,
+Eduarda Castro,joao-vitorrocha@example.org,R$ 0.00,0,79,03/09/2022 13:34:30,
+Marina da Cunha,laracostela@example.net,R$ 39.90,0,0,03/09/2022 16:27:48,
+Diogo da Luz,julia86@example.net,"R$ 2,811.40",1425.65,"Pix: 2023,00    Cartão: 705,51",03/09/2022 20:43:44,
+Arthur Castro,raquel21@example.net,"R$ 1,491.00",433,"350,00+82,90 = 432,90",03/09/2022 22:05:26,
+Dr. Thiago Melo,danilodias@example.com,"R$ 1,334.10",0,0,05/09/2022 13:24:41,
+Julia Cardoso,julianasilva@example.org,R$ 0.00,0,149.1,05/09/2022 13:33:44,
+Sr. Lorenzo Ramos,marianasouza@example.com,"R$ 4,259.80",923,616,05/09/2022 21:12:25,
+Luigi da Rosa,portokaique@example.org,"R$ 1,069.40",65,125,05/09/2022 21:56:53,
+Isabel Lima,lsantos@example.net,"R$ 3,748.30",300,"200,00 (cartão)",06/09/2022 13:02:54,
+Vitor Gabriel Silva,lucas01@example.net,R$ 969.70,100,1992.87,06/09/2022 13:06:25,
+Marcelo Correia,da-rochabenjamin@example.com,R$ 99.00,0,"2,655.60",06/09/2022 19:57:00,
+Vitória Farias,jda-rosa@example.net,R$ 0.00,0,102.79,06/09/2022 20:07:32,
+Luigi Gonçalves,sferreira@example.org,R$ 447.00,1005,"101,00+160,00+250,00+117,00 = 628,00 Sicoob    139,00 Banco do Brasil",06/09/2022 21:20:09,
+Raul Costa,heitor43@example.net,R$ 164.90,221.95,422.9,06/09/2022 21:54:32,
+Marcelo Silveira,ysales@example.org,R$ 389.00,"1,000.00",833.9,08/09/2022 12:24:33,
+Samuel da Paz,maria-vitoria74@example.org,R$ 0.00,0,649.09,08/09/2022 13:06:05,
+Cecília Peixoto,joao80@example.net,R$ 499.53,0,247.3,08/09/2022 13:09:36,
+Kaique Costa,levimoraes@example.com,R$ 54.90,0,0,08/09/2022 13:34:45,
+Alana da Luz,ucostela@example.org,R$ 469.80,250,1082.4,08/09/2022 21:57:21,
+Lucca da Mota,davifreitas@example.net,"R$ 2,523.00",1273,"452,00+86,00 = 538,00              Transfêrencia BB: 200,00+178,00+80,00 = 458,00",09/09/2022 14:11:55,
+Daniela Correia,acampos@example.com,"R$ 3,170.00",747,"PIX 0,60 41,90 49,90 150,10 SP 232,00 83,90",09/09/2022 14:24:52,
+Maria Eduarda Oliveira,da-rochaana-julia@example.com,R$ 159.90,497.6,"SP 320,00",09/09/2022 14:37:57,
+Ryan Lopes,laura90@example.com,"R$ 1,289.44",249,"SP 377,55 PIX 140,00 143,00 510,00",09/09/2022 15:04:55,
+Esther Fernandes,tcarvalho@example.net,R$ 0.00,1474.35,0,09/09/2022 16:40:28,
+Ana Carolina Rezende,nogueiravitor@example.com,"R$ 2,006.18",0,166.74,09/09/2022 16:54:26,
+João Pedro Porto,da-rocharebeca@example.org,"R$ 1,034.60",0,760,09/09/2022 17:47:37,
+Maria Alice Silva,dcampos@example.com,R$ 672.00,1536,"350,00+74,00+57,00+165,00+400,00 = 1046,00",09/09/2022 21:18:31,
+Vitor Hugo Moraes,viniciusnunes@example.net,R$ 809.30,0,0,09/09/2022 21:47:43,
+Pietro da Cunha,correiamaria-cecilia@example.net,"R$ 1,116.00",0,747.36,10/09/2022 12:15:19,
+Ana Beatriz Caldeira,anthonyrocha@example.org,R$ 0.00,0,583.2,10/09/2022 12:22:42,
+Davi Lucca Moura,mouraotavio@example.com,"R$ 1,349.40",1807.75,50,12/09/2022 11:37:49,
+Sr. Alexandre da Mota,portoluigi@example.org,"R$ 1,421.40",0,685.95,12/09/2022 17:10:57,
+Nicole Fernandes,uteixeira@example.com,R$ 299.90,621.7,"PIX 65,00 116,00 SP 349,00 ",12/09/2022 19:26:45,
+Luigi da Luz,barbararamos@example.org,R$ 0.00,63.9,"PIX 226,41 149,90 521,00",12/09/2022 19:52:56,
+Bruna Nunes,martinsenzo-gabriel@example.org,R$ 949.30,688.7,100,12/09/2022 20:01:24,
+Sofia Moura,salesalexia@example.com,R$ 0.00,174.4,8,12/09/2022 20:22:07,
+Juliana Rocha,nunesdavi@example.net,"R$ 1,225.00",284.9,0,12/09/2022 21:40:59,
+Beatriz Silva,rafaela81@example.com,"R$ 3,111.00",1103.9,"200,00+99,00+150,00 = 449,00",13/09/2022 12:19:34,
+Ana Sophia Pereira,julianascimento@example.net,R$ 0.00,50,42.19,13/09/2022 12:50:11,
+Lucas Gabriel Dias,rodrigo90@example.com,R$ 129.00,0,753.81,13/09/2022 13:10:51,
+João Correia,otavio70@example.net,R$ 688.00,358,213,13/09/2022 20:55:30,
+Kevin Cunha,maysagomes@example.org,R$ 0.00,"95,50 JA INCLUSO NO FECHAMENTO 05/09","39,99 JA INCLUSO NO FECHAMENTO 05/09",14/09/2022 12:49:48,
+Sr. Miguel Ramos,davi-luizmoraes@example.net,"R$ 1,009.30",150,2720,14/09/2022 12:50:44,
+Srta. Gabriela Lopes,theoda-luz@example.net,R$ 451.74,0,1379.74,14/09/2022 12:52:46,
+Sra. Stephany Farias,portomaite@example.com,R$ 399.90,300,1775.02,14/09/2022 13:04:23,
+Ana Carolina Cavalcanti,correiacaroline@example.net,"R$ 1,689.30",106.24,0,14/09/2022 13:07:39,
+Davi Lucas Jesus,vvieira@example.com,"R$ 1,479.20",220,660.59,14/09/2022 13:11:13,
+Luana Lopes,mda-luz@example.com,"R$ 1,489.30",1245,50,14/09/2022 13:14:14,
+Luiz Gustavo Fogaça,alana10@example.net,"R$ 1,259.89",1523.5,100,14/09/2022 18:41:06,
+Luiz Felipe Jesus,fogacavicente@example.net,"R$ 1,289.62",87.9,159,14/09/2022 18:48:11,
+Lorena Costa,dporto@example.net,R$ 0.00,55.9,0,14/09/2022 20:34:00,
+Emanuella Rodrigues,diego85@example.com,R$ 814.90,80,"PIX: 105,00    CARTÃO: 278,00",14/09/2022 21:24:08,
+Dra. Maria Julia Mendes,joanada-rocha@example.org,"R$ 2,259.30",0,40,14/09/2022 21:48:44,
+Sr. Lucas Caldeira,teixeiraalicia@example.com,R$ 0.00,0,706,15/09/2022 13:17:07,
+João Guilherme Campos,ninanascimento@example.com,R$ 937.33,0,"755,00 + 88,00 abatimento (Brinco Akila Meire",15/09/2022 13:52:34,
+Mirella Peixoto,danilocunha@example.com,R$ 0.00,60,199,15/09/2022 19:24:57,
+Arthur da Luz,vitorrocha@example.org,R$ 45.90,52.3,0,15/09/2022 20:17:04,
+Eduardo Lima,vitoriapereira@example.com,R$ 0.00,0,379.00 ( débito),16/09/2022 01:32:06,
+Laura das Neves,calebebarbosa@example.com,R$ 811.90,143,"177,00+100,00+172,00 = 449,00",16/09/2022 11:30:18,
+Nina da Cunha,costelamaria-eduarda@example.org,R$ 671.60,0,253,16/09/2022 12:22:58,
+Luiz Otávio Araújo,nogueiradanilo@example.org,"R$ 2,729.09",526.52,336.65,16/09/2022 12:25:21,
+Leandro Souza,levi22@example.org,R$ 462.77,0,0,16/09/2022 12:49:47,
+Sarah Novaes,lucas71@example.org,R$ 0.00,0,370.7,16/09/2022 21:42:30,
+Theo da Costa,caldeiramatheus@example.org,R$ 0.00,0,862,17/09/2022 12:17:01,
+Melissa Nunes,laviniarocha@example.net,R$ 0.00,0,26,17/09/2022 12:22:28,
+Benjamin Ramos,leticia25@example.net,R$ 357.86,0,0,17/09/2022 12:25:08,
+Dr. João Peixoto,anascimento@example.net,R$ 268.00,310,"PIX: 371,00+150,00=521,00        TRANSFERÊNCIA BB: 250,00",17/09/2022 12:26:23,
+Pietro Rodrigues,vieiraluna@example.org,"R$ 1,509.20",0,0,17/09/2022 12:31:01,
+Luigi da Rosa,nicolasazevedo@example.com,R$ 0.00,0,399.9,17/09/2022 12:37:27,
+Julia Melo,pedro-henriquelopes@example.net,R$ 39.90,0,251,17/09/2022 15:40:09,
+Cecília Nascimento,lorenzo65@example.net,"299,99 Dia 16/09",0,0,17/09/2022 19:28:17,
+Srta. Fernanda da Mota,vitorcardoso@example.com,"489,23 17/09",0,206.97,17/09/2022 19:36:42,
+Yago Azevedo,ffogaca@example.com,"R$ 1,550.90",208,400,17/09/2022 20:45:28,
+Pedro Freitas,murilomelo@example.com,"R$ 5,063.03",164,0,19/09/2022 13:51:22,
+Thomas Azevedo,nda-rocha@example.com,R$ 0.00,0,1367,19/09/2022 14:58:14,
+Gustavo Castro,diegogomes@example.net,"R$ 1,038.00",0,223.3,19/09/2022 20:53:15,
+Vinicius da Conceição,barbosamurilo@example.org,R$ 369.90,1424.7,522.9,19/09/2022 20:56:43,
+Alexia Teixeira,freitasrodrigo@example.org,R$ 319.80,0,142,19/09/2022 21:45:28,
+Sr. João Miguel da Luz,nogueirahelena@example.net,R$ 0.00,50,0,20/09/2022 12:05:33,
+Vitor Gabriel da Rocha,samuel27@example.org,R$ 627.00,1234,335,20/09/2022 12:23:05,
+Heloísa da Rosa,maria-luiza51@example.org,"R$ 1,339.20",0,379.73,20/09/2022 12:52:35,
+Davi Lucca Rezende,costelacaua@example.org,R$ 275.40,0,62,20/09/2022 17:24:25,
+João Miguel Moraes,araujopedro-lucas@example.net,R$ 722.60,99.9,0,20/09/2022 21:54:51,
+Srta. Eduarda Costa,emanuellafarias@example.net,"R$ 1,100.00",0,202,21/09/2022 12:32:12,
+Augusto Barbosa,daniel34@example.com,R$ 0.00,563.9,0,21/09/2022 12:54:17,
+Breno da Costa,silvamaria-cecilia@example.com,R$ 718.10,100,0,21/09/2022 13:00:46,
+Maria Alice Lima,gomesjoana@example.org,R$ 0.00,0,230,21/09/2022 13:25:23,
+Eloah Moreira,luna22@example.net,"R$ 1,058.13",76,"PIX 498,23 149,90 SP 229,00",21/09/2022 14:00:05,
+Eloah Nogueira,raquel84@example.net,R$ 0.00,0,0,21/09/2022 14:20:18,
+Dra. Lara Cavalcanti,correiajoao@example.org,R$ 806.50,0,909.3,21/09/2022 17:18:38,
+Giovanna Lopes,xlima@example.net,"R$ 1,823.90",1356,"122,50 +220,00 (BB)+ 60,00 +400,00+40,00 TOTAL : 842,50",21/09/2022 19:36:37,
+Bárbara Cardoso,correialuiz-fernando@example.org,"R$ 1,100.00",0,202,21/09/2022 20:44:34,
+Milena Monteiro,goncalvesluiza@example.net,R$ 0.00,79.9,0,21/09/2022 21:45:35,
+Bárbara das Neves,icunha@example.com,0.00,0,683.36,22/09/2022 03:15:29,
+João Gabriel Correia,nsouza@example.com,R$ 0.00,0,41.7,22/09/2022 12:30:41,
+André Ferreira,thales17@example.com,"R$ 2,101.12",100,"277,84 (Cartao)",22/09/2022 13:01:31,
+Laura Moreira,gomesjoao-vitor@example.org,R$ 629.60,0,0,22/09/2022 21:52:54,
+Sra. Isis da Cunha,silvaisabelly@example.net,"R$ 2,007.00",239,"300,00(transf BB) + 72,00 PIX + 209,00 CARTAO ",23/09/2022 11:24:45,
+Nicole da Mata,agatha47@example.net,R$ 149.70,0,0,23/09/2022 12:14:18,
+Lavínia Sales,eduarda67@example.org,R$ 99.00,0,0,23/09/2022 19:10:04,
+Marcela da Mota,yuri19@example.net,21/09/2022,1789,1359,"Pix : 75,00 + 29,00 +135,00 =239,00 Tranf bb :168,00 cartão : 422,40",23/09/2022 19:55:48
+Thales Moraes,ana04@example.com,23/09/2022,0,0,140,23/09/2022 20:34:08
+Dra. Isis Correia,xda-mata@example.com,23/09/2022,R$94.79,0,"R$150,00 JA INCLUSO NO FECHAMENTO DO CAIXA",24/09/2022 12:30:56
+Cauê Gomes,fogacaemanuella@example.net,23/09/22,179.7,"1,000.00",0,24/09/2022 14:54:41
+Rafaela Dias,agathapires@example.net,23/09/2022,199.99,"83,25 Dia 23/09",0,24/09/2022 19:03:21
+Augusto da Costa,pietrolopes@example.net,"23/09/,202",219.9,150,0,26/09/2022 11:56:58
+Yuri Mendes,sophiafogaca@example.net,24/09/2022,559.6,86.8,0,26/09/2022 11:59:03
+Srta. Júlia da Cruz,henriqueda-rocha@example.net,24/09/22,301.6,0,0,26/09/2022 12:47:04
+Dr. Augusto Rodrigues,vitor-hugo84@example.org,24/09/2022,1368,270,"Pix  183,00 +109,00 total :292,00 Cartão : 546,31",26/09/2022 13:27:18
+Diego Moreira,melissa85@example.org,23/09/2022,878,1559,"200,00+308,00+175,00 total : 683,00",26/09/2022 13:49:51
+Eduardo Nunes,isabellagoncalves@example.org,26-09-2022,4954.7,3088.95,161.4,26/09/2022 21:45:14
+Vitória Campos,juan79@example.net,26/09/2022,612,0,0,26/09/2022 23:37:21
+Felipe Araújo,pfarias@example.com,26/09/2022,0,0,1800,27/09/2022 12:26:07
+Dr. Heitor da Paz,ydias@example.org,26/09/22,258,100,131,27/09/2022 14:01:37
+Gustavo Nascimento,wramos@example.net,26/09/2022,1806.9,1178,62,27/09/2022 19:49:16
+João Guilherme Almeida,maria-luiza15@example.org,27/09/2022,100,20,30,27/09/2022 20:03:45
+Kevin Viana,nunesgiovanna@example.com,27-09-2022,89.9,0,0,27/09/2022 21:48:14
+Alexia da Mata,agoncalves@example.net,27/09/22,0,0,500,28/09/2022 01:29:56
+João Guilherme Dias,cunhadaniela@example.org,26/09/2022,879.6,0,"2099,50 (1799,50 (12/09/2022) 300,00 (25/09/2022)",28/09/2022 12:16:42
+Maria Clara Castro,cfernandes@example.org,27/09/2022,699.7,0,0,28/09/2022 12:32:31
+Maria Vitória Ferreira,barroseduarda@example.com,26/09/2022,6958.8,0,642,28/09/2022 12:46:09
+Sabrina Lima,cjesus@example.org,27/09/2022,99,0,0,28/09/2022 12:47:01
+Maria Alice Ferreira,julianaramos@example.com,27/09/2022,633,299,"100,00+271,00+156,00+134,00 total : 661,00",28/09/2022 20:32:05
+Emanuel Pereira,jcardoso@example.net,28-09-2022,0,0,320,28/09/2022 21:42:42
+Guilherme Melo,luiz-gustavovieira@example.org,28/09/2022,639.6,0,1781.8,29/09/2022 12:24:01
+Ana Luiza Monteiro,joao-vitor06@example.com,29/09/2022,471,367.5,"250,00+96,00 total: 346,00",29/09/2022 17:00:20
+Mirella Rodrigues,eduardo12@example.org,28/09/2022,0,0,120,29/09/2022 17:09:42
+Sr. Yuri das Neves,sda-conceicao@example.org,29/09/2022,119.7,0,80,29/09/2022 20:55:41
+Renan Farias,acardoso@example.org,29/09/2022,"3,084.00",0,311.48,29/09/2022 21:58:28
+Lívia Nogueira,emanuelcorreia@example.net,29/09/2022,1257.1,0,0,30/09/2022 12:06:50
+João Guilherme Lopes,waraujo@example.com,29/09/2022,0,0,190,30/09/2022 18:57:51
+Srta. Pietra Correia,yalves@example.com,30/09/2022,0,43.2,0,30/09/2022 20:22:44
+Luiz Henrique Ribeiro,danilobarros@example.com,29/09/2022,1183,666,"PIX;250,00  CARTÃO : 63,00",30/09/2022 20:38:59
+Sr. Anthony Nogueira,da-mataluiz-miguel@example.com,30-09-2022,0,0,401.9,30/09/2022 21:47:51
+Lucas Cardoso,cardosoluiz-gustavo@example.com,30/09/2022,386.4,"1367,70 permuta com andre (vale combustivel)",0,01/10/2022 12:06:20
+Dra. Mirella Pinto,irocha@example.net,30-09-2022,0,0,401.9,01/10/2022 12:07:03
+Murilo da Luz,benjamin42@example.net,30/09/2022,899.5,488.25,679,01/10/2022 12:19:34
+João Pedro Peixoto,tmartins@example.net,30/09/2022,317.4,0,"14,331.50",01/10/2022 12:33:30
+Sarah Costela,diogo58@example.com,01-10-2022,559.6,0,75,01/10/2022 16:12:43
+Dra. Isabella Ferreira,ninavieira@example.com,01/10/2022,59.9,0,532,03/10/2022 12:21:03
+Daniel Caldeira,maysa35@example.org,01/10/2022,2983,50,79,03/10/2022 13:14:25
+Samuel Rezende,igoncalves@example.net,01/10/2022,269.7,0,0,03/10/2022 13:24:42
+Sra. Manuela da Cruz,valentinacardoso@example.net,30/09/2022,903,941,"PIx: 68,00+500,00+170,00 = 738,00        Transferencia BB: 242,00+82,00 = 324,00",03/10/2022 14:46:11
+Lorenzo Sales,henriqueduarte@example.com,01/10/2022,2415,1524,"150,00+133,00+371,00+232,50 = 886,50",03/10/2022 14:56:03
+Pedro Miguel Porto,ida-cunha@example.net,03-10-2022,0,534,445,03/10/2022 21:39:28
+Bernardo Duarte,danilo85@example.com,03/10/2022,1009.5,700,269.85,04/10/2022 12:41:29
+Marina Nunes,fcaldeira@example.net,03/10/2022,0,0,900,04/10/2022 12:45:43
+Danilo Almeida,ninafogaca@example.net,03/10/2022,0,0,871,04/10/2022 13:11:55
+Milena Nascimento,raulda-cunha@example.com,03/10/2022,0,0,360,04/10/2022 13:18:28
+Gustavo Castro,tsouza@example.net,01/10/2022,303.9,0,0,04/10/2022 14:38:27
+Alícia Pinto,olivia13@example.org,04-10-2022,0,204.9,252,04/10/2022 21:08:37
+Luiza Lima,bsilva@example.com,04/10/2022,314,0,"100,00/214,00",04/10/2022 21:36:12
+Benício da Mata,da-motaana-carolina@example.net,04/10/2022,121,0,0,05/10/2022 12:37:13
+Amanda Sales,marianejesus@example.net,04/10/2022,1938.7,0,924.88,05/10/2022 12:58:29
+João Miguel Barros,wfernandes@example.org,04/10/2022,473.4,0,1106.6,05/10/2022 14:53:32
+Dra. Mariana Moura,luna75@example.net,04/10/2022,357.6,0,510.8,05/10/2022 16:20:12
+Helena Viana,murilo57@example.com,03/10/2022,3857.1,1199.9,1053,05/10/2022 19:27:19
+Srta. Emilly Gomes,davi-luiz17@example.org,04/10/2022,421.8,787,"Pix: 253,00+285,00+256,00+89,00+400,00=1283,00     Cartao: 96,80",05/10/2022 19:38:29
+Francisco Almeida,da-cruzluna@example.net,03/10/2022,0,0,2040,05/10/2022 20:34:10
+Srta. Ana Sophia Peixoto,amandafreitas@example.net,05/10/2022,0,19.9,0,05/10/2022 20:41:39
+Davi Lucca Cunha,fgomes@example.org,05/10/2022,0,19.9,0,05/10/2022 20:41:39
+Srta. Luna Jesus,cardosojoao-lucas@example.com,05/10/2022,0,19.9,0,05/10/2022 20:41:39
+Renan Pires,dpereira@example.net,05/10/2022,0,19.9,0,05/10/2022 20:41:40
+João Guilherme Gonçalves,vicentecorreia@example.net,05/10/2022,0,19.9,0,05/10/2022 20:41:39
+Sra. Julia Jesus,ipinto@example.com,05/10/2022,0,19.9,0,05/10/2022 20:41:40
+Francisco da Conceição,gomeslarissa@example.com,05/10/2022,"1,128.90",0,275.5,05/10/2022 21:56:11
+Henrique Castro,lopesalexia@example.net,05/10/2022,89.8,0,400,06/10/2022 12:24:02
+Pietro da Luz,luiz-henrique23@example.net,05/10/2022,0,0,306.2,06/10/2022 12:33:39
+Letícia Jesus,jcardoso@example.net,05/10/2022,2684.42,490,"1513,30 - sendo que 1000,00 foi na conta da caixa",06/10/2022 12:43:29
+Clara das Neves,maria-alicecorreia@example.net,05/10/2023,2684.42,813.2,"1513,30 Sendo que 1000,00 foi depositado na caixa",06/10/2022 13:03:03
+Sr. Benjamin Costela,diogocunha@example.com,05/10/2022,348.47,0,0,06/10/2022 13:13:04
+Nina Aragão,gomesalexandre@example.com,05/10/2022,3306.7,530,"96,00+300,00+89,00+300,00+124,00+300,00+126,00+200,00 total :1535,00",06/10/2022 18:59:13
+Yasmin Oliveira,maiterodrigues@example.net,06/10/2022,0,209.4,0,06/10/2022 20:55:46
+Beatriz da Mota,ferreirasophia@example.org,06-10-2022,349.6,300,319.4,06/10/2022 21:59:00
+Nina Moura,camposgabriel@example.org,06/10/2022,897,773,"PIX :200,00+100,00+254,00+72,00+105,00+725,00 TOTAL : 1456,00    CHEQUE :570,00 PARA O DIA 18/10",07/10/2022 12:20:52
+Enzo Pinto,diogofogaca@example.org,06/10/2022,199.9,68.25,"804,91- 100,00 foi pago na caixa economica",07/10/2022 13:05:32
+Letícia Vieira,joao-pedrofogaca@example.net,06/10/2022,0,0,"1,277.14",07/10/2022 19:31:06
+Nina das Neves,wviana@example.com,07/10/2022,0,0,"150,00/153,00",07/10/2022 20:04:55
+Luana Ramos,anascimento@example.com,07/10/2022,0,0,75.9,07/10/2022 20:47:36
+Pedro Henrique Lima,juliananogueira@example.org,07-10-2022,235.7,205,686.03,07/10/2022 21:53:13
+Dr. Thomas Moura,ana-juliacosta@example.com,07/10/2022,"8,246.22",472,"1,318.85",08/10/2022 14:04:31
+Valentina Peixoto,thiagolima@example.org,08/10/2022,1332,0,"200,00/300,00",08/10/2022 17:19:41
+Leonardo Costa,vitoria77@example.org,08/10/2022,271.2,0,0,10/10/2022 13:30:50
+Brenda Ramos,bernardo94@example.net,08/10/2022,639.5,486.45,0,10/10/2022 13:33:23
+Nina Ferreira,barbosacalebe@example.org,08/10/2022,639.5,486.45,0,10/10/2022 17:13:04
+Diogo Farias,lmartins@example.org,07/10/2022,0,0,"R$4,547.65",10/10/2022 17:31:51
+Dr. Enrico Cavalcanti,camposelisa@example.org,08/10/2022,"1,761.40",0,145,10/10/2022 17:35:15
+Sofia da Costa,sabrina39@example.org,10/10/2022,589.7,100,"2,209.40",11/10/2022 13:03:01
+Joana Ribeiro,alexandre60@example.org,10/10/2022,0,0,1367,11/10/2022 13:08:26
+Vinicius Aragão,das-nevesthomas@example.net,10/10/2022,0,0,"290,00 pix",11/10/2022 13:42:09
+Sra. Kamilly Nogueira,lbarbosa@example.com,08/10/2022,764.7,646,"56,00+100,00+100,00+89,20= 345,20",11/10/2022 14:12:36
+Sr. Anthony Duarte,araujoagatha@example.net,10/10/2022,0,"135,98 JA INCLUSO NO FECHAMENTO DO CAIXA","160,00 JA INCLUSO NO FECHAMENTO DO CAIXA",11/10/2022 14:22:16
+Alana da Luz,aragaostella@example.org,04/10/2022,0,0,750.7,11/10/2022 15:21:39
+Sophie Oliveira,luigida-cunha@example.org,05/10/2022,0,0,1049.23,11/10/2022 15:26:02
+Sarah Pereira,antoniocorreia@example.com,06/10/2022,1136.4,0,346.9,11/10/2022 15:31:46
+João Guilherme Pinto,da-motavitor@example.org,07/10/2022,0,0,181,11/10/2022 15:37:12
+Daniel Novaes,jsilva@example.com,08/10/2022,3496.59,0,0,11/10/2022 15:41:39
+Sr. Marcos Vinicius Jesus,cramos@example.net,10/10/2022,69.3,0,3006.8,11/10/2022 15:45:09
+Sr. Nicolas Duarte,moraesclarice@example.net,10/10/2022,1130,2231,"50,00+135,00+204,00 total :389,00",11/10/2022 16:34:44
+Diogo Nogueira,maria-luiza15@example.com,10/10/2022,667.4,0,0,11/10/2022 17:16:59
+Anthony Ramos,wcarvalho@example.org,11/10/2022,0,0,"175,00/275,00",11/10/2022 21:04:36
+Lorenzo Pinto,vinicius15@example.net,10/10/2022,337,0,327.4,11/10/2022 21:48:24
+Eduarda Moreira,gustavo12@example.net,11/10/2022,149.7,0,812.7,11/10/2022 21:51:59
+Benjamin Correia,sophie00@example.com,11/10/2022,391.89,0,"39,99 JÁ INCLUSO NO FECHAMENTO DO CAIXA",13/10/2022 12:38:12
+Fernando Peixoto,isis04@example.com,11/10/2022,199.9,50,"519,60 cartao debito.",13/10/2022 13:44:49
+Luana Alves,gustavo-henriquepinto@example.com,11/10/2022,"1,498.00",0,219,13/10/2022 13:47:37
+Srta. Caroline da Cunha,aribeiro@example.org,11/10/2022,1057.4,902.65,"100,00+300,00+400,00=800,00",13/10/2022 14:52:08
+Sarah Rezende,alicia80@example.com,11/10/2022,49.99,0,0,13/10/2022 17:58:33
+Ana Júlia Teixeira,azevedoisabelly@example.org,13-10-2022,1029.5,0,319.4,13/10/2022 21:46:25
+Otávio Silva,lsantos@example.com,13/10/2022,494.6,0,0,14/10/2022 12:06:13
+Eduarda Nunes,evelynda-costa@example.org,13/10/2022,719.7,15.95,"850,00( 200,00 feito dia 11/10/2022( ( 500,00 feito dia 07/10/2022)",14/10/2022 13:18:04
+Breno Rezende,pietra63@example.com,11/10/2022,300,280,379,14/10/2022 13:26:40
+Benício Nogueira,da-cunhaemanuel@example.net,13/10/2022,0,0,208.4,14/10/2022 13:35:19
+Srta. Raquel Azevedo,da-rochaalana@example.org,13/10/2022,1432.9,869,"29,00+214,00 total :243,00    cartão :86,00",14/10/2022 17:55:12
+Amanda Nascimento,tmoura@example.com,13/10/2022,1432.9,869,"29,00+214,00=243,00",14/10/2022 19:16:54
+Mariana Jesus,cardosomirella@example.com,14/10/2022,0,0,55.9,14/10/2022 20:20:57
+Sra. Camila da Costa,lara67@example.com,14-10-2022,899.4,857.43,142,14/10/2022 21:46:32
+Dr. João Miguel Nascimento,goncalvesalicia@example.org,14/10/2022,0,450,0,14/10/2022 21:56:03
+Giovanna Rodrigues,barrosana-vitoria@example.org,14/10/2022,0,0,275,15/10/2022 12:18:25
+Dra. Isabel da Rosa,yuri96@example.net,14/10/2022,599.7,0,0,15/10/2022 12:46:17
+João Lucas Cardoso,samuel32@example.com,14/10/2022,4885.4,883.8,"193,00+350,00+100,00+74,00=717,00",15/10/2022 14:41:58
+Thomas Costela,brendamoura@example.com,15-10-2022,155.9,0,779.63,15/10/2022 15:46:15
+Dr. Juan Teixeira,tsilveira@example.net,14/10/2022,658,0,193,17/10/2022 12:09:08
+Mariane Costela,fmoraes@example.com,15/10/2022,0,170,0,17/10/2022 12:39:20
+Sra. Rebeca Freitas,raquel08@example.com,15/10/2022,62.89,0,0,17/10/2022 12:59:56
+Sophia Mendes,npereira@example.org,15/10/2022,1657.8,318,"148,000+43,20 total: 191,20",17/10/2022 13:15:15
+Sr. Nicolas Almeida,clariceteixeira@example.com,14/10/2022,209.7,0,40.75,17/10/2022 15:13:58
+Giovanna Rodrigues,jjesus@example.net,15/10/2022,320.94,0,0,17/10/2022 17:38:48
+Catarina Rezende,freitassamuel@example.org,15/10/2022,0,0,359.90,17/10/2022 19:04:10
+Letícia Rodrigues,da-matajoaquim@example.net,17-10-2022,0,20,200,17/10/2022 21:49:35
+Melissa Almeida,sda-cunha@example.net,17/10/2022,0,0,421.94,18/10/2022 01:51:05
+Kaique Peixoto,luna45@example.net,17/10/2022,2462,1575,0,18/10/2022 12:35:21
+Levi Santos,marcelogoncalves@example.org,17/10/2022,0,50,0,18/10/2022 13:36:51
+Arthur Nogueira,mda-cruz@example.org,17/10/2022,"1,978.60",0,741.8,18/10/2022 16:44:01
+Milena Melo,teixeirafelipe@example.net,18/10/2022,672,0,0,18/10/2022 20:42:33
+Henrique Silva,zda-cruz@example.net,18-10-2022,0,0,957.95,18/10/2022 21:41:54
+Dr. Pedro Henrique Fernandes,vianabernardo@example.com,18/10/2022,568.8,19.9,"797,78 ( 403,78 feito dia 13/10/22;  200,00 feito dia 14/10/22) ",19/10/2022 13:28:54
+Diogo das Neves,breno24@example.org,18/10/2022,5826.4,161,"332,90+500,00+175,00=",19/10/2022 14:07:18
+Isadora Pires,aalmeida@example.net,18/10/2022,5826.4,161,"332,90+500,00+175,00=1007,90",19/10/2022 14:07:38
+Nicole Fogaça,rodriguesjoao-pedro@example.org,18/10/2022,1627,300,"99,50 feito pelo pix pessoa fisica ",19/10/2022 16:13:15
+Diogo Rocha,luiz-otaviogoncalves@example.com,18/10/2022,459.9,0,"453,30 (153,30/ 300,00)",19/10/2022 18:14:39
+Diego Nogueira,felipeda-paz@example.net,19/10/2022,0,0,600,19/10/2022 21:32:08
+Sr. Joaquim Correia,joao-gabrielnogueira@example.org,19-10-2022,425.5,60,174.9,19/10/2022 21:45:43
+Srta. Natália Silveira,monteirothales@example.net,19/10/2022,0,0,683.36,20/10/2022 00:36:15
+Pedro Miguel da Mota,clarabarros@example.net,19/10/2022,132,0,"100,00 JÁ INCLUSO NO FECHAMENTO",20/10/2022 12:25:12
+Luiz Miguel Gonçalves,nina18@example.com,18/10/2022,"1,276.20",190,"1,088.90",20/10/2022 12:42:29
+João Lucas Teixeira,acardoso@example.net,19/10/2022,0,0,620.3,20/10/2022 12:47:05
+Luiz Otávio Barros,castrofrancisco@example.net,19/10/2022,739.6,23.7,0,20/10/2022 13:01:04
+Sr. Danilo da Rocha,davi-luccaduarte@example.org,19/10/2022,149.4,0,0,20/10/2022 13:20:33
+Antônio Melo,caioda-cruz@example.com,19/10/2022,812.9,214.5,"214,00+400,00 total : 614,00",20/10/2022 14:05:14
+Kaique Porto,arthurda-cunha@example.org,20-10-2022,0,236.3,0,20/10/2022 21:42:12
+Pedro Henrique Castro,jramos@example.org,20/10/2022,0,"121,00 JÁ INCLUSO NO FECHAMENTO",0,21/10/2022 12:30:43
+Marcelo Aragão,ana-julianunes@example.org,20/10/2022,"1,428.90",280,0,21/10/2022 12:55:46
+Dr. Davi Costela,gomessamuel@example.com,20/10/2022,"1,428.90",280,0,21/10/2022 13:00:20
+Dra. Raquel da Mota,ccardoso@example.org,20/10/2022,0,0,170.6,21/10/2022 13:43:55
+Mirella Sales,tfreitas@example.org,20/10/2022,277.9,0,974,21/10/2022 14:23:25
+Alana Nascimento,da-cruzbarbara@example.org,21/10/2022,61.9,45.9,0,21/10/2022 20:52:30
+Eduardo Moura,da-cunharebeca@example.net,20/10/2022,90,51,0,21/10/2022 21:26:46
+Ana Luiza das Neves,da-rosakamilly@example.org,21-10-2022,199.6,0,40,21/10/2022 21:48:54
+Marcelo Moura,cauenovaes@example.com,21/10/2022,0,0,140,21/10/2022 22:46:33
+Maria Julia Gomes,raragao@example.com,21/10/2022,0,612,300,22/10/2022 12:47:00
+Isis Silveira,nuneslarissa@example.net,21/10/2022,518.84,0,0,22/10/2022 13:04:37
+Luiza Costa,marcela31@example.com,22/10/2022,0,0,"290,00/55,00",22/10/2022 17:09:07
+Maria Sophia Teixeira,vitorpereira@example.com,20/10/2022,2851,990,200,22/10/2022 19:13:00
+Ana Carolina Ribeiro,bryan40@example.org,21/10/2022,801.7,300,1169.7,22/10/2022 19:18:17
+Levi Lima,moreirahenrique@example.org,21/10/2022,0,0,140,23/10/2022 11:19:16
+Srta. Sofia Silveira,isadora86@example.org,22/10/2022,399,50,0,24/10/2022 13:10:12
+Luiz Gustavo Cardoso,barbosanoah@example.org,22/10/2022,84.99,0,"40,00 JA INCLUSO NO FECHAMENTO",24/10/2022 13:28:51
+Luiz Miguel Campos,oda-conceicao@example.com,22/10/2022,1505.5,50,54,24/10/2022 17:48:49
+Maria Freitas,da-costamaria-sophia@example.net,21/10/2022,234,1100,0,24/10/2022 20:29:27
+Emilly Costela,luanacavalcanti@example.com,24-10-2022,139.9,0,63,24/10/2022 21:50:11
+Luiz Henrique Teixeira,julianamoura@example.com,24/10/2022,0,0,400/230/55/290,24/10/2022 23:31:49
+Gabriela Rocha,felipeda-conceicao@example.com,24/10/2022,0,0,272.35,25/10/2022 14:06:33
+Ana Clara Costa,luiz-gustavoferreira@example.net,22/10/2022,449.7,190,0,25/10/2022 16:10:30
+Pietro Alves,marcos-viniciusribeiro@example.net,24/10/2022,"1,119.60",0,59.9,25/10/2022 16:13:11
+Luigi Fernandes,araujoluiz-felipe@example.org,24/10/2022,1033,1017,"300,00 tranferência ",25/10/2022 20:54:49
+Agatha Vieira,portoemanuel@example.net,25/10/2022,2695.5,1060,44,25/10/2022 21:08:47
+Mariane Sales,kamillyribeiro@example.com,25/10/2022,195.09,0,"1,300.00",26/10/2022 13:11:18
+Vitória Moura,pedro28@example.net,25/10/2022,229.8,0,550,26/10/2022 13:20:14
+Thiago das Neves,nunesalice@example.net,24/10/2022,600,0,0,26/10/2022 14:06:27
+Letícia Cunha,rvieira@example.com,26/10/2022,2503.7,251.5,0,26/10/2022 21:01:28
+Francisco da Rosa,diogo30@example.org,26-10-2022,399.5,0,0,26/10/2022 21:45:52
+Sra. Catarina Ribeiro,lmoura@example.net,26-10-2022,0,"150,00 em cheque ",0,27/10/2022 12:12:36
+Vitor Hugo Campos,da-rosajoao-lucas@example.net,24-10-2022,314,0,0,27/10/2022 13:13:32
+Sr. Caio Silva,mcorreia@example.org,26-10-2022,559.7,0,0,27/10/2022 13:14:01
+Samuel Ramos,ipeixoto@example.net,27-10-2022,549.5,0,0,27/10/2022 21:41:58
+Ian Moura,diasgustavo-henrique@example.com,27-10-2022,0,0,250,28/10/2022 12:12:48
+Olivia Cardoso,fernandesluana@example.org,27-10-2022,"2,209.80",149,0,28/10/2022 12:26:29
+Leonardo Costela,lopesmirella@example.org,27-10-2022,"2,638.20",238.25,0,28/10/2022 13:02:53
+Sr. Cauê Duarte,jda-mota@example.net,27-10-2022,2545,370.2,0,28/10/2022 19:55:53
+Sr. Lucas Almeida,dmoura@example.org,28-10-2022,132.9,0,0,29/10/2022 12:45:22
+Brenda Lima,duartefernando@example.org,28-10-2022,"1,280.00",0,157,29/10/2022 12:59:45
+Maria Cecília Carvalho,ppereira@example.com,28-10-2022,969.4,254.55,0,29/10/2022 13:19:41
+Esther Farias,da-cruzalice@example.net,28-10-2022,159.8,0,0,29/10/2022 13:56:07
+Lara Farias,danilo51@example.com,28-10-2022,309.8,60,0,29/10/2022 14:40:41
+Luiz Gustavo Gonçalves,da-conceicaobeatriz@example.net,28-10-2022,969.4,254.55,0,29/10/2022 15:24:11
+Laura da Conceição,silvaana-clara@example.net,28-10-2022,969.4,254.55,0,29/10/2022 15:34:16
+Anthony Ribeiro,luccaporto@example.com,29-10-2022,0,91,0,29/10/2022 15:48:11
+Caio da Costa,hcampos@example.org,29-10-2022,785.47,0,0,31/10/2022 13:25:16
+Sabrina Alves,sophiafernandes@example.org,29-10-2022,2148.5,0,0,31/10/2022 14:43:02
+Nicole da Conceição,naragao@example.net,28-10-2022,1000,0,0,31/10/2022 14:49:26
+Cecília da Mata,yago27@example.com,29-10-2022,1009.8,921,1428,31/10/2022 18:20:18
+Luana Cardoso,procha@example.org,28-10-2022,1733.9,800,0,31/10/2022 19:02:41
+Sarah da Conceição,tsilveira@example.com,31-10-2022,0,100,0,31/10/2022 20:48:16
+Camila Fogaça,maysa77@example.com,31-10-2022,79.9,0,80,31/10/2022 21:38:57
+Natália Moraes,oda-rocha@example.com,31-10-2022,460,742,"250,00+118,00+50,00+135,00 total:742,00",1/11/2022 12:11:14
